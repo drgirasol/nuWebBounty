@@ -22,9 +22,9 @@
 // @include       http://planets.nu/*
 // @include       http://play.planets.nu/*
 // @include       http://test.planets.nu/*
-// @resource	  Documentation https://github.com/drgirasol/nuwebbounty/wiki
-// @updateURL     https://greasyfork.org/scripts/26189-nupilot/code/nuWebBounty.js
-// @downloadURL   https://greasyfork.org/scripts/26189-nupilot/code/nuWebBounty.js
+// @resource	  Documentation https://github.com/drgirasol/nuWebBounty/wiki
+// @updateURL     https://greasyfork.org/scripts/367994-nuwebbounty/code/nuWebBounty.user.js
+// @downloadURL   https://greasyfork.org/scripts/367994-nuwebbounty/code/nuWebBounty.user.js
 
 // ==/UserScript==
 
