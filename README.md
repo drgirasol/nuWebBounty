@@ -1,2 +1,2 @@
 # nuWebBounty
-nuPlanets Crytsal Web Bounty Helper
+nuPlanets Crystal Web Bounty Helper
