@@ -16,7 +16,7 @@
 // ==UserScript==
 // @name          nuWebBounty
 // @description   Planets.nu plugin to record web drain bounties
-// @version       0.01.02
+// @version       0.01.03
 // @date          2018-05-14
 // @author        drgirasol
 // @include       http://planets.nu/*
